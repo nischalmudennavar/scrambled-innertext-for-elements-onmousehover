@@ -55,7 +55,7 @@ body h1::after {
   background: #000000;
   border-bottom: 1px solid #fff;
   z-index: 9999;
-  rotate: 42deg;
+  rotate: 43deg;
 }
 body h1:active {
   transform: scale(0.98);

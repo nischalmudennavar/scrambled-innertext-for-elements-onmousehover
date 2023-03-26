@@ -27,7 +27,7 @@ buttons.forEach((button) => {
         clearInterval(interval);
       }
 
-        iteration += 1/2 ;
+        iteration += 1/2.5;
         
     }, 30);
   });
@@ -55,7 +55,7 @@ buttons.forEach((button) => {
           clearInterval(interval);
         }
 
-        iteration += 1/2;
+        iteration += 1/2.5;
       }, 30);
     });
     });
